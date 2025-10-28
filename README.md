@@ -51,11 +51,11 @@ To run the project on your local machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
+    git clone https://github.com/Eslam-code-gif/MINI-SQL-ENGINE---CONSOLE-APP-.git
     cd mini-sql-engine
     ```
 
-2.  **Get dependencies (if any):**
+2.  **Get dependencies :**
     ```sh
     dart pub get
     ```
@@ -128,5 +128,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 Copyright (c) 2025 Abdelrahim Mohamed Abdelrahim Ibrahim(Eslam-code-gif)
 
-```
-```
