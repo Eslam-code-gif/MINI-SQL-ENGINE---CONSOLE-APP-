@@ -62,7 +62,7 @@ To run the project on your local machine:
 
 3.  **Run the application:**
     ```sh
-    dart run
+    dart run lib/main.dart
     ```
 
 ## 📖 SQL Command Reference
