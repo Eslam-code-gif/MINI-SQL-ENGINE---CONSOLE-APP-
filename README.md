@@ -52,7 +52,7 @@ To run the project on your local machine:
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/Eslam-code-gif/MINI-SQL-ENGINE---CONSOLE-APP-.git
-    cd mini-sql-engine
+    cd MINI-SQL-ENGINE---CONSOLE-APP-
     ```
 
 2.  **Get dependencies :**
